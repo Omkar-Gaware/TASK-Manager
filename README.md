@@ -10,7 +10,7 @@
 
 ## Screenshots
 
-![Screenshot 1](https://lh3.googleusercontent.com/u/0/drive-viewer/AITFw-xB_NskCCSMSnG-n9fDvajBY9qQtBOd1zc76vkmv3l0_-XrX5oeQo51jerPfEbXlkIZLFhSclNXFI4Z4CSs4joj3fUZ=w1920-h883)
+![alt text](<Screenshot 2025-04-27 223348.png>)
 
 ## Getting Started
 
